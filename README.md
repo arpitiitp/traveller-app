@@ -5,6 +5,9 @@
 
 This project is a full-stack application that integrates a robust backend API with a modern React-based frontend. The backend provides secure authentication, user management, maps integration, and ride services, while the frontend delivers a dynamic UI using React, Google Maps API, and Tailwind CSS. Both parts of the application are designed for high performance and scalability.
 
+## APP Video Link  
+[Watch the video](https://drive.google.com/file/d/1NsvahJmhY2yZXGYFPuyNmN-xG_X4lZ6O/view?usp=sharing)
+
 ## Tech Stack
 
 ### Frontend
